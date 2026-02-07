@@ -1,6 +1,6 @@
-# foxPEP - A Better UXP [ Release 3.0 ]
+# UXPEP - For A Better UXP [ Release 3.0 ]
 
-The Firefox Partitioned Engine Patch, otherwise abbreviated as foxPEP, is a ﬁnely tuned all-in-one conﬁguration patch designed exclusively for UXP-based browsers that automatically applies a carefully curated collection of advanced browser parameters to achieve a faster, smoother, and more secure web browsing experience on both legacy and modern computer systems alike. 
+The Unified XUL Partitioned Engine Patch, otherwise abbreviated as UXPEP, is a ﬁnely tuned all-in-one conﬁguration patch designed exclusively for UXP-based browsers that automatically applies a carefully curated collection of advanced browser parameters to achieve a faster, smoother, and more secure web browsing experience on both legacy and modern computer systems alike. 
 
 As such, the following improvements should be experienced after installing the patch: 
 
@@ -24,4 +24,4 @@ officially supported (inc. Firefox, Waterfox, etc.)
 Releases
 -
 
-https://github.com/zgxSystems/foxPEP/releases
+https://github.com/zgxSystems/UXPEP/releases
